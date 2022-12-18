@@ -1,0 +1,4 @@
+2022-12-18  INFO [aggregate-akka.actor.default-dispatcher-3] a.e.s.Slf4jLogger - Slf4jLogger started
+2022-12-18  DEBUG[aggregate-akka.actor.default-dispatcher-3] a.e.EventStream - logger log1-Slf4jLogger started
+2022-12-18  DEBUG[aggregate-akka.actor.default-dispatcher-3] a.e.EventStream - Default Loggers started
+2022-12-18  DEBUG[aggregate-akka.actor.default-dispatcher-3] a.s.Serialization(akka://aggregate) - Replacing JavaSerializer with DisabledJavaSerializer, due to `akka.actor.allow-java-serialization = off`.
